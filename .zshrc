@@ -13,7 +13,6 @@ bindkey    "\e[H"    beginning-of-line
 bindkey    "\e[F"    end-of-line
 bindkey    "\e[3~"   delete-char
 # The following lines were added by compinstall
-zstyle :compinstall filename '/home/webnexus/.zshrc'
 autoload -Uz compinit
 compinit
 # End of lines added by compinstall
